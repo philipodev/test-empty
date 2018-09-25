@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-   "devDependencies": {
+  "devDependencies": {
     "babel-plugin-emotion": "^9.2.4",
     "eslint": "^4.9.0",
     "express": "^4.16.3",
@@ -23,7 +23,7 @@
     "url": "^0.11.0"
   },
   "dependencies": {
-    "ag-grid": "^18.0.1",
+    "ag-grid": "^18.1.2",
     "ag-grid-react": "^18.0.0",
     "axios": "^0.18.0",
     "emotion": "^9.2.4",
