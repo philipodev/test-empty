@@ -26,7 +26,7 @@
     "ag-grid": "^18.1.2",
     "ag-grid-react": "^19.0.0",
     "axios": "^0.18.0",
-    "emotion": "^9.2.4",
+    "emotion": "^9.2.10",
     "final-form": "^4.8.3",
     "history": "^4.7.2",
     "preact": "^8.2.6",
