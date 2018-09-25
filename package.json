@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "ag-grid": "^18.1.2",
-    "ag-grid-react": "^18.0.0",
+    "ag-grid-react": "^19.0.0",
     "axios": "^0.18.0",
     "emotion": "^9.2.4",
     "final-form": "^4.8.3",
